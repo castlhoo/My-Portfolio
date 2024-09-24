@@ -28,6 +28,7 @@ Each project includes the entire process from problem analysis to architecture d
 | 2  | **Web Programming Project - Mowing and Clearing Community "Ancestor Love"** | Developing a community site to connect users with mowing and clearing services | Spring Boot, JPA, RESTful API | Team Project | [GitHub Link](https://github.com/LeeYeonhee-00/AncestorLove) | 2024-08-16 |
 | 3  | **Kaggle Titanic Project - Rumor about Titanic** | Proving rumors surrounding the Titanic using ELK analysis | ElasticSearch, Kibana, Filebeat | Team Project | [GitHub Link](https://github.com/isshomin/Woori_FISA_elk_titanic) | 2024-08-02 |
 | 4  | **Shell Script and Cron in Linux** | Enhancing Shell programming skill and adapt to Cron | Shell Linux | Personal Project | [GitHub Link](https://github.com/castlhoo/Shell-Script-and-Cron-in-Linux/blob/main/README.md) | 2024-09-23 |
+| 5  | **Docker Image Optimization Guide** | For stable and lightweight operation, improve skill about optimization Docker Image | Pyhton Docker Shell | Personal Project | [GitHub Link](https://github.com/castlhoo/Optimizing-size-of-Docker-image) | 2024-09-24 |
 
 ---
 
