@@ -29,6 +29,7 @@ Each project includes the entire process from problem analysis to architecture d
 | 3  | **Kaggle Titanic Project - Rumor about Titanic** | Proving rumors surrounding the Titanic using ELK analysis | ElasticSearch, Kibana, Filebeat | Team Project | [GitHub Link](https://github.com/isshomin/Woori_FISA_elk_titanic) | 2024-08-02 |
 | 4  | **Shell Script and Cron in Linux** | Enhancing Shell programming skill and adapt to Cron | Shell Linux | Personal Project | [GitHub Link](https://github.com/castlhoo/Shell-Script-and-Cron-in-Linux/blob/main/README.md) | 2024-09-23 |
 | 5  | **Docker Image Optimization Guide** | For stable and lightweight operation, improve skill about optimization Docker Image | Pyhton Docker Shell | Personal Project | [GitHub Link](https://github.com/castlhoo/Optimizing-size-of-Docker-image) | 2024-09-24 |
+| 6  | **Scan Docker Images using Trivy** | With Trivy, scan and check vulnerability of Docker images and set automation tools to improve security | Pyhton Docker Shell | Personal Project | [GitHub Link](https://github.com/castlhoo/Scan-docker-images-using-Trivy) | 2024-09-25 |
 
 ---
 
