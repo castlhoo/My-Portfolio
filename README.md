@@ -1,6 +1,6 @@
 # My-Portfolio
 
-*Last Updated: October 01, 2024*
+*Last Updated: October 02, 2024*
 
 <br>
 
@@ -20,6 +20,7 @@ Each project includes the entire process from problem analysis to architecture d
 | 4  | **About Network OSPF** | Forming Networks Using OSPF Protocol and Cisco Troubleshooting | Cisco Packet Tracer | Individual Project | [GitHub Link](https://github.com/castlhoo/Network-OSPF-) | 2024-09-03 |
 | 5  | **Migration MySQL Data in Docker** | Migration MySQL data between container | Docker, MySQL, Shell | Individual Project | [GitHub Link](https://github.com/castlhoo/Migration-MySQL-data-in-Docker) | 2024-09-27 |
 | 6  | **Detection and Change File between VM** | Detects file alterations in Jenkins, applies those changes to a VM, and copies new files to another VM through a remote server using SSH keys | Docker, Jenkins, Shell, minikube | Individual Project | [GitHub Link](https://github.com/castlhoo/Detection-changing-file-in-VM) | 2024-10-01 |
+| 7  | **Deploy SpringApp with Minikube** | Demonstrates how to build a simple Spring Boot application as a Docker image and deploy it in a Kubernetes environment | Docker, SpringBoot, Shell, minikube | Individual Project | [GitHub Link](https://github.com/castlhoo/K8s-Springapp) | 2024-10-02 |
 <br>
 
 ### ✨ Backend Project List ✨
