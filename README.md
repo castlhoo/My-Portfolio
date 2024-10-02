@@ -19,7 +19,7 @@ Each project includes the entire process from problem analysis to architecture d
 | 3  | **SmartWorkflow-Crontab-PC-Manager** | Automation using Crontab | Linux, Crontab, Bash scripting, PAM | Individual Project | [GitHub Link](https://github.com/castlhoo/Linux-Crontab) | 2024-09-20 |
 | 4  | **About Network OSPF** | Forming Networks Using OSPF Protocol and Cisco Troubleshooting | Cisco Packet Tracer | Individual Project | [GitHub Link](https://github.com/castlhoo/Network-OSPF-) | 2024-09-03 |
 | 5  | **Migration MySQL Data in Docker** | Migration MySQL data between container | Docker MySQL Shell | Individual Project | [GitHub Link](https://github.com/castlhoo/Migration-MySQL-data-in-Docker) | 2024-09-27 |
-| 6  | **Detection and Change File between VM** | Detects file alterations in Jenkins, applies those changes to a VM, and copies new files to another VM through a remote server using SSH keys | Docker Jenkins Shell | Individual Project | [GitHub Link](https://github.com/castlhoo/Detection-changing-file-in-VM) | 2024-09-27 |
+| 6  | **Detection and Change File between VM** | Detects file alterations in Jenkins, applies those changes to a VM, and copies new files to another VM through a remote server using SSH keys | Docker Jenkins Shell | Individual Project | [GitHub Link](https://github.com/castlhoo/Detection-changing-file-in-VM) | 2024-10-01 |
 <br>
 
 ### ✨ Backend Project List ✨
