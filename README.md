@@ -41,6 +41,5 @@ Each project includes the entire process from problem analysis to architecture d
 | 4  | **Docker Image Optimization Guide** | For stable and lightweight operation, improve skill about optimization Docker Image | Python, Docker, Shell | Personal Project | [GitHub Link](https://github.com/castlhoo/Optimizing-size-of-Docker-image) | 2024-09-24 |
 | 5  | **Scan Docker Images using Trivy** | With Trivy, scan and check vulnerability of Docker images and set automation tools to improve security | Python, Docker, Shell | Personal Project | [GitHub Link](https://github.com/castlhoo/Scan-docker-images-using-Trivy) | 2024-09-25 |
 <br>
----
 
 ### This portfolio is continuously updated! 🤖
