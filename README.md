@@ -13,7 +13,7 @@ Each project includes the entire process from problem analysis to architecture d
 
 | No | Project Name | Description | Key Tech | Team<br> Size | Link | Date | 
 |----|---------------|------|-----------|----------|------|------|
-| 1  | **Thesis** | The Relationship between Adaptation Disorders and Victimization among North Korean Defectors | R, SPSS | Personal Project | [Notion Link]([https://github.com/isshomin/Woori_FISA_elk_titanic](https://screeching-kettledrum-5a8.notion.site/The-Relationship-between-Adaptation-Disorders-and-Victimization-among-North-Korean-Defectors-1211f59aa4f280ab8c39f51fe74a4dd5?pvs=4)) | 2021-11-14 |
+| 1  | **Thesis** | The Relationship between Adaptation Disorders and Victimization among North Korean Defectors | R, SPSS | Personal Project | [Notion Link](https://screeching-kettledrum-5a8.notion.site/The-Relationship-between-Adaptation-Disorders-and-Victimization-among-North-Korean-Defectors-1211f59aa4f280ab8c39f51fe74a4dd5?pvs=4) | 2021-11-14 |
 | 1  | **Kaggle Titanic Project - Rumor about Titanic** | Proving rumors surrounding the Titanic using ELK analysis | ElasticSearch, Kibana, Filebeat | Team Project | [GitHub Link](https://github.com/isshomin/Woori_FISA_elk_titanic) | 2024-08-02 |
 <br>
 
