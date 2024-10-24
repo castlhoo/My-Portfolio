@@ -1,6 +1,6 @@
 # My-Portfolio
 
-*Last Updated: October 16, 2024*
+*Last Updated: October 24, 2024*
 
 <br>
 
