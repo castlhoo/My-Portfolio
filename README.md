@@ -30,7 +30,7 @@ Each project includes the entire process from problem analysis to architecture d
 | 6  | **Deploy SpringApp with Minikube** | Demonstrates how to build a simple Spring Boot application as a Docker image and deploy it in a Kubernetes environment | Docker, SpringBoot, Shell, minikube | Individual Project | [GitHub Link](https://github.com/castlhoo/K8s-Springapp) | 2024-10-02 |
 | 7  | **AWS EC2 with Spring Boot, Docker & JMeter Stress Test** | AWS EC2, Spring Boot, Docker, and JMeter stress testing are an essential combination to ensure scalability, performance, consistent deployment, and stability of applications in high-traffic situations within cloud environments. | Docker, SpringBoot, AWS | Individual Project | [GitHub Link](https://github.com/castlhoo/AWS-EC2-with-Spring) | 2024-10-09 |
 | 8  | **Terraform with AWS** | Explore how to use Terraform to interact with AWS, focusing on creating and managing an S3 bucket with various configurations | Docker, AWS, AWS CLI, Terraform | Individual Project | [GitHub Link](https://github.com/castlhoo/Terraform-with-AWS) | 2024-10-09 |
-
+| 9  | **Jenkins & AWS CI/CD Pipeline** | Esablish CI / CD pipeline with Jenkins and Deploy AWS S3, EC2 by automize with AWS RAMDA | Docker, AWS, AWS CLI, Jenkins, RAMDA, S3 | Team Project | [GitHub Link](https://github.com/gorapang/AWS_CICD) | 2024-10-11 |
 
 ### ✨ Backend Project List ✨
 
