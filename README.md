@@ -1,6 +1,6 @@
 # My-Portfolio
 
-*Last Updated: October 24, 2024*
+*Last Updated: October 26, 2024*
 
 <br>
 
@@ -16,6 +16,7 @@ Each project includes the entire process from problem analysis to architecture d
 | 1  | **Thesis** | The Relationship between Adaptation Disorders and Victimization among North Korean Defectors | R, SPSS | Personal Project | [Notion Link](https://screeching-kettledrum-5a8.notion.site/The-Relationship-between-Adaptation-Disorders-and-Victimization-among-North-Korean-Defectors-1211f59aa4f280ab8c39f51fe74a4dd5?pvs=4) | 2021-11-14 |
 | 2  | **Kaggle Titanic Project - Rumor about Titanic** | Proving rumors surrounding the Titanic using ELK analysis | ElasticSearch, Kibana, Filebeat | Team Project | [GitHub Link](https://github.com/isshomin/Woori_FISA_elk_titanic) | 2024-08-02 |
 | 3  | **CPTED Spark on Kubernetes: For Safer Society** | aims to implement a machine learning model using CPTED (Crime Prevention Through Environmental Design) to create a safer society and deploy through CI/CD | Pyspark, Python, Jenkins, Docker, Kubenetes | Personal Project | [GitHub Link](https://github.com/castlhoo/CPTED-Project/tree/main) | 2024-10-24 |
+| 4  | **Apartment Risk Prediction Program** | This project builds on the previously developed CPTED (Crime Prevention Through Environmental Design) model and integrates it into a web application using Flask | Pyspark, Python, Flask, HTML | Personal Project | [GitHub Link](https://github.com/castlhoo/Apartment_Risk_Prediction_Program) | 2024-10-26 |
 <br>
 
 ### 🎖️ Infrastructure Project List 🎖️
