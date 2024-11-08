@@ -33,7 +33,7 @@ Each project includes the entire process from problem analysis to architecture d
 | 8  | **Terraform with AWS** | Explore how to use Terraform to interact with AWS, focusing on creating and managing an S3 bucket with various configurations | Docker, AWS, AWS CLI, Terraform | Individual Project | [GitHub Link](https://github.com/castlhoo/Terraform-with-AWS) | 2024-10-09 |
 | 9  | **Jenkins & AWS CI/CD Pipeline** | Esablish CI / CD pipeline with Jenkins and Deploy AWS S3, EC2 by automize with AWS RAMDA | Docker, AWS, AWS CLI, Jenkins, RAMDA, S3 | Team Project | [GitHub Link](https://github.com/gorapang/AWS_CICD) | 2024-10-11 |
 
-### ✨ Backend Project List ✨
+### ✨ Full-Stack Project List ✨
 
 | No | Project Name | Description | Key Tech | Team<br> Size | Link | Date |
 |----|---------------|------|-----------|----------|------|------|
